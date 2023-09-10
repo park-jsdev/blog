@@ -3,20 +3,20 @@ A fully functional personal blog web application built on XAMPP with account aut
 
 ## Features
 - **Simple Home Page**: Cross-platform homepage with random quote in banner and a responsive navbar.
-![Screenshot](homepage.png)
+![Screenshot](homepage.PNG)
 
 - **Login**: Users can log in based on account info in the database.
-![Screenshot](login.png)
+![Screenshot](login.PNG)
 
 - **Admin Menu**: Admin users can manage posts and post categories.
-![Screenshot](menu.png)
+![Screenshot](menu.PNG)
 
 - **Post**: Admin users and public users can create posts within categories. Public users can view posts.
-![Screenshot](newpost.png)
-![Screenshot](post.png)
+![Screenshot](newpost.PNG)
+![Screenshot](post.PNG)
 
 - **RSS Feed**: The blog can connect to RSS feeds via API, and it will display them in the 'News' page.
-![Screenshot](RSSfeed.png)
+![Screenshot](RSSfeed.PNG)
 
 ## Technologies / Requirements
 - The application was built on [XAMPP 8.0.12](https://www.apachefriends.org/download.html) on Windows 10.
